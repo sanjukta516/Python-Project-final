@@ -1,0 +1,17 @@
+{
+    "total_students": 20,
+    "average_study_hours": 4.4,
+    "average_assessment_score": 64.35,
+    "highest_score": 91,
+    "lowest_score": 35,
+    "course_summary": {
+        "Java": {
+            "student_count": 10,
+            "average_score": 66.0
+        },
+        "Python": {
+            "student_count": 10,
+            "average_score": 62.7
+        }
+    }
+}
